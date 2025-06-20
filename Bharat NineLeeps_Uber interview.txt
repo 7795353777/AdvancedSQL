@@ -123,6 +123,10 @@ Answer 4
 
     rn1 as (select *, row_number() over(order by date) as rnall,
                     row_number() over(partition by state order by date) as rnpart
+
+Question 5 : In hadoop block and split?
+Question 6 : 1 big file 4gb 100 files total 4 gb in spark 2 cases what are the consequesnces while reading and writing?
+
                     
                     from un),
     diff as (select *,rnall-rnpart as grps  from rn1)
