@@ -1,0 +1,20 @@
+S.No	Question
+1)	Diff between spark pool and databircks cluster
+2)	What is salting in pyspark
+3)	Consider you have a table empoyee(csv) and department (csv) 
+        employee -emp_id,emp_name,emp_sal,department_head_id,department_id
+        department-department_id,department_name
+        write a spark with output
+        output is delta parquet
+        cols
+        emp_id,emp_name,emp_sal,department_head_id,deparment_headname,dep_id,departmentName
+        reuse the code and let it be modular
+	    So there is department head id in employees column you need to get department head name also...
+4)	5th highest salary based on department
+5)	diff bucketing and partitioning
+6)	volume in adb
+7)	different pools in synapse
+8)	dedicated vs serverlsess
+9)	consider i have a project and i have on prem and cloud (synapse) bring all on prem to cloud what is architechure
+10)	rbac and acl
+11)	lets say project given to you suddenly you have a release and everything got stopped working while deployment on prod tomorrow and no support, how to handle such situation
