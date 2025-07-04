@@ -1,0 +1,17 @@
+UST Neilson L3
+1. latancy in the steaming applications
+2. internally straming analytics uses what components 
+3. cost calculate in the streaming analytics
+4. what is data warehouse synapse db
+5. azure sql db difference data warehouse including in terms of io operations and concurancy
+6. reason for more concurrency
+7. redshift and synapse
+8. columnnar db and relational db
+9. medalian architecture
+10. lambda architecture
+11. kappa architecture
+12. pysparka architecture
+13. complex solution you have solved in pyspark
+14. attribution model?
+15. click through ratio?
+16. What is the top and  end of the funnel model you use in project?
