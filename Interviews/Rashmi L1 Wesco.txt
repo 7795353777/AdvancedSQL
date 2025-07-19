@@ -1,0 +1,84 @@
+Rashi Wesco L1
+
+Interview Questions
+
+1 flatten and explode a column with comma-separated hobbies in PySpark -coding 
+2 compare two dataframes and get rows in df1 not present in df2 -coding
+3. count nulls in each column of a dataframe- coding
+4. find records with correct mobile numbers (start with 6-9, 10 digits)
+5. difference between wide and narrow transformations in Spark
+6. how to handle corrupted records
+7. handling corrupted records - 2 to 3 approaches
+8. try-catch for error handling
+9. na.fill in PySpark
+10. failFast mode in Spark file reading
+11. store corrupted records in a separate location
+12. delete files greater than 1 MB in ADF
+13. step-by-step process to delete files >1MB using ADF
+14. optimization techniques in Azure Databricks
+15. Z-Order clustering in Databricks
+16. difference between Z-Order and normal partitioning
+17. explanation of Z-Ordering
+18. salting technique
+19. difference between partitioning and bucketing
+20. change permission of file (Unix)
+21. cat command usage
+22. search for a pattern in Unix
+
+
+
+
+coding
+
+INPUT:-
+Q) Name                     Hobbies
+   A                        Badmintion,Cricket
+   B                        Cricket,Tennis
+   C                        Cricket,Carrom
+
+OUTPUT:-
+Name                       Hobbies
+A                         Badmintion
+A                         Cricket
+B                         Cricket
+B                         Tennis
+C                         Cricket
+C                         Carrom
+ 
+ 
+df1 = df.withColumn("hobbies", explode(split('hobbies, ',')))
+df.show()
+ 
+ 
+df1:-                        df2:-
+id name age                id name age
+1  a     35                 1  a    35
+2  b     45                 2  b    45
+3  c     65
+output:-
+df3:
+id name age
+3  c     65
+ 
+df = df1.join(df2, on = 'id','name, 'age', "left-anti")
+df.show()
+ 
+ 
+id           name         age
+1              a           23
+2              b          NULL
+3              c           56
+4              NULL       NULL
+5              NULL       NULL
+ 
+Id   Student name      Mobile no
+1     Aman            U43755693y
+2     Rahul           9867456321
+3     Saurav          M87659789U
+FIND RECORDS WITH CORRECT MOBILE NUMBER.
+ 
+ 
+df1 = df.withColumn("mobile_num", regexp_replace("mobile no", [^0-9]"))
+df2 = df1.filter(col("mobile_num").rlike("^[0-9]$"))
+df2.show()
+ 
