@@ -1,0 +1,27 @@
+Nithin L1 deloitte
+ 
+Question Number,Question
+
+1,What is data volume?
+
+2,What is data volume in Databricks?
+
+3,What is the meaning of orchestration?
+
+4,How do you copy data from S3 bucket and Kafka streaming in Databricks?
+
+5,What is the difference between Data Lake, Database, Data Warehouse, and Lakehouse?
+
+6,How do you build automated pipelines in Azure Data Factory (ADF)?
+
+7,How do you ensure data quality and integrity is handled?
+
+8,How do you ensure data quality and integrity in ADF?
+
+9,How do you handle change requests?
+
+10,What is U-SQL?
+
+11,When to use ETL and when ELT?
+
+ 
