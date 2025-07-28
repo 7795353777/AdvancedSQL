@@ -1,0 +1,33 @@
+Rashmi Capgemeni L2
+ 
+Question Number,Question
+1,Pull data from different sources and put into ADLS Gen2 from on-premises and cloud also
+2,Why SHIR and why auto-resolve for cloud? , Why not use auto-resolve runtime?
+3,SSIS runtime vs Self-hosted Integration Runtime
+4,While moving data from source to destination and running multiple pipelines, got an OOM error. What are the resolution steps?
+5,Source is blob and data ingested daily, moved to SQL twice a day. First half of data not moved. How to check and avoid data loss? ,Which activities to use in ADF for above case?,Data got corrupted in last run. How to handle it?
+6,100 CSV files need to be loaded into Databricks folder with full hierarchy. Loop and load everything in ADF.
+7,How does Until activity work in ADF?
+8,How to improve performance of Delta tables?
+9,Techniques to improve SQL table performance in general
+10,Clustered vs Non-clustered index with example
+11,Types of distribution in Synapse
+12,You created table with REPLICATED distribution. How does the backend process work?
+13,In ADB, if schema changes in source and transformations should still work, how to handle? ,Other than mergeSchema, how to handle schema changes?
+14,Difference between inferSchema and mergeSchema
+15,Why do we need SparkSession?
+16,Given var = [1,2,3,3,3,4,5,5], loop through the array and output unique and duplicate values in separate arrays
+ 
+ 
+ 
+S.No	Question
+1	In PySpark: One table has 3 cols: userid, activity, duration. Get total unique users and total duration per activity. Output: activity, unique_users, total_duration.
+2	SQL: You have an emp table (empid, dep, empname, salary). Get top 3 salaries in each department that are higher than the max salary of the housekeeping department.
+3	SQL: Write a query to take top 3 salaries after filtering out those below housekeeping max salary.
+4	Python: var = [1,2,3,3,3,4,5,5] — loop through the array and output two lists: one with unique values and one with duplicates.
+5	Python: Write code to loop through the array without using any extra modules.
+6	SQL: You have a table with a single column id (e.g., 1,2,2,2,3,3,4). Write a query to return only duplicate values and their duplicate count (excluding the original record).
+7	Python: Declare an array variable in PySpark.
+8	PySpark: Loop through folders/files in a hierarchical folder structure (100 CSVs) and load them into a Databricks table.
+9	PySpark/ADF: Write logic to handle schema changes during ingestion while transforming data successfully (even when schema evolves).
+10	SQL: Use CTE syntax and explain with example.
