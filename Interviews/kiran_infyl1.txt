@@ -1,0 +1,42 @@
+kiran l1 infy
+ 
+No,Question
+
+1,Integration runtimes types
+
+2,Ingesting from source and daily pipeline, incoming files, while storing the blob, save it like hierarchical with date yyyy/mm/dd
+
+3,100s of files in blob, process only last 2 weeks data
+
+4,2 weeks of data from 100s of files
+
+5,Error handling in pipelines in general
+
+6,Diff web and webhook
+
+7,Invoke pipeline from different resource ADF1, ADF2 different environments same subscription
+
+8,How to connect Databricks with blob for reading all possible ways
+
+9,Diff Microsoft Fabric vs ADF
+
+10,Lakehouse over blob storage
+
+11,Shortcuts functionality
+
+12,Data quality measures to maintain accuracy
+
+13,How can you secure storage account folder
+
+14,ACL vs RBAC
+
+15,Challenging situations in your project
+
+16,PySpark optimization jobs
+
+17,You receiving daily millions of records optimize copy activity
+
+18,How to achieve incremental loads
+
+19,Remove duplicates in SQL table
+ 
