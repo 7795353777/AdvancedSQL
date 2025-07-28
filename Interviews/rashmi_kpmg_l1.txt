@@ -1,0 +1,49 @@
+rashmi kpmg l1
+ 
+S.No,Question
+
+1,Explain ADF and what are types of triggers with use cases
+
+2,Explain source with on-prem and connect to data from on-prem to cloud
+
+3,In this process what are all the endpoints and private endpoints
+
+4,Difference between serverless and dedicated
+
+5,Different types of file formats
+
+6,Parquet vs Delta files
+
+7,Two tables: customers and orders — identify top 2 customers by total ordered amount from Hyderabad, along with their total spend and orders they placed
+
+8,Explain the SQL code used above
+
+9,Execution order of SQL
+
+10,What is Unity Catalog in Databricks
+
+11,What is Vacuum in Databricks
+
+12,Unity Catalog vs Hive Metastore
+
+13,Explain Databricks architecture
+
+14,Explain Lakehouse Databricks architecture
+
+15,Difference between import and query mode
+
+16,Describe your daily work in the current project
+
+17,What is FT version
+
+18,What future technologies are you exploring
+
+19,How do you fix duplicate records in data
+
+20,SQL query to remove duplicates
+
+21,What data quality checks do you perform
+
+22,Where should I focus or work on (future roadmap)
+
+ 
