@@ -1,0 +1,33 @@
+Rashmi l1 Deloitte
+ 
+Question Number,Question
+1,Multiple files transfer from one folder to another in ADF (CSV)
+2,Suppose copy only files that are modified in last 30 days
+3,In ADF, if variable type is array how to add elements to array
+4,Difference between IF and SWITCH activity
+5,How will you set failure notification in ADF
+6,Schedule a pipeline to run 1st of every month
+7,Trigger for first working day of the month
+8,How to run pipeline every day except public holidays and weekends
+9,Difference between Primary Key and Unique Key
+10,What is SCD and types of SCD
+11,Why surrogate key is needed
+12,You have a table with 3 columns: empid, salary, department
+13,Write a query to get 3 highest salaries
+14,Write a query to get highest salary of each department
+15,Which is faster: GROUP BY or Window functions?
+16,You have 2 tables: a (1,1,1,2,null,null) and b (1,1,null), number of records in inner join,left,right,outer
+17,Get all order IDs in table1 that are not in table2
+18,Use anti join in SQL to get order IDs in table1 not in table2
+19,Which is faster: NOT IN or Anti-Join?
+20,You have a table with month and sales, write a query for YTD (Year To Date) sales
+21,Explain the logic behind YTD query
+22,You have table with empid, empname, managerid; get manager name and number of employees under him
+23,Explain the logic for getting manager and count of employees
+24,Explain Spark Architecture
+25,Advantages of Delta Tables
+26,A PySpark DataFrame needs to write to Delta table but only 1 Parquet file should be generated
+27,Difference between Narrow and Wide Transformations in Spark
+28,Delta table write is fine but read is slow — causes and how to fix
+29,OPTIMIZE command in Delta Lake — explanation and usage
+30,How to load Parquet files from ADLS into Synapse Dedicated SQL Pool
