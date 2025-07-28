@@ -1,0 +1,19 @@
+bharath wesco l1
+ 
+S.No,Question,Summary
+1,Project Overview points,Gives a general-purpose project overview including objective, tech stack, responsibilities, and outcomes.
+2,Clusters in Databricks,Explains cluster types, configurations, real-time examples, and best practices.
+3,How do you handle incremental load in ADF,Describes various approaches like watermarking, delta loads, and best practices.
+4,Data versioning and lineage tracking practices,Explains how versioning is done via Delta Lake, foldering, and how lineage is tracked with Purview and logs.
+5,Horizontal and vertical scaling in Big Data,Compares horizontal vs vertical scaling with examples in Spark and Databricks.
+6,Foreign key and referential integrity in SQL,Explains what a foreign key is, how it enforces referential integrity, with examples.
+7,Different types of joins in SQL,Lists and explains INNER, LEFT, RIGHT, FULL, CROSS, and SELF joins.
+8,Advantages of Azure Cloud,Lists key advantages like scalability, security, integration, and cost efficiency.
+9,DataOps,Defines DataOps, its components, real-time use case, and benefits.
+10,How do you work with data analyst and clients,Explains collaboration strategies with analysts and clients across pipeline development.
+11,How did you debug the data job that had inconsistent data,Breakdown of step-by-step debugging process for inconsistent data.
+12,ACL in Data Platform,Explains how Access Control Lists are used in ADLS, Databricks, and other components.
+13,Azure access control methods,Describes RBAC, ACL, AAD, SAS, Managed Identity, and Private Endpoints.
+14,Synapse architecture,Describes storage, compute, pipelines, UI, and integration within Azure Synapse.
+ 
+ 
