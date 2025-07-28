@@ -1,0 +1,74 @@
+Rashmi L3 Capgemeini
+ 
+ 
+S.No,Question
+
+1,Why cosmos db for storage?
+
+2,vs adls
+
+3,requirement for cosmosdb instead of adls
+
+4,which api is used in cosmos
+
+5,what is the source of data
+
+6,lets say you are querying json data using sql api; you are getting orders data and as soon as new order is created, print all the new orders whose amount is greater than 100
+
+7,in sql api cosmos db
+
+8,for json data
+
+9,is the order a table or container?
+
+10,only recently created orders are required
+
+11,dynamically take for last 10 mins
+
+12,what is partitioning key in order table
+
+13,how do I expire old data
+
+14,expand ttl
+
+15,how to set ttl
+
+16,steps in portal
+
+17,can you set ttl at item level?
+
+18,what are 3 types of follow ups
+
+19,different ways to call upon
+
+20,on failure, on successful, on completion
+
+21,what is get metadata activity
+
+22,can you write a join on 2 pyspark dataframes on common id column
+
+23,how many times the id column will be in final df
+
+24,any simpler way to not have 2 times id column?
+
+25,join on id as well as dptid
+
+26,I do not want to have duplicated columns how to avoid it
+
+27,Are you sure???
+
+28,what are partitions in spark and what are tasks
+
+29,lets say 5 partitions are there how many tasks are there
+
+30,lets say 1 stage has 5 partitions, action is just saving the partitions; how many tasks will be in final result
+
+31,what is transformation chaining
+
+32,SCD
+
+33,type2 vs type 4
+
+34,cols required to identify scd type 2
+
+ 
