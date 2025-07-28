@@ -1,0 +1,15 @@
+Nithin's Wesco L1
+ 
+All Rashmi Questions with Below questions
+25,How does Spark work in the background and how to use checkpointing?
+
+26,How does Spark allocate resources?
+
+27,What is indexing?
+
+28,Spark vs Hadoop?
+
+29,What is the default replication factor in Hadoop?
+
+30,What is the maximum number of activities supported in ADF?
+ 
