@@ -1,0 +1,39 @@
+Question Number,Question
+
+2,Triggers in ADF and their use cases
+
+3,Pre-requisites for SSIS Integration in ADF
+
+4,What is Integration Runtime in ADF?
+
+5,What is ADLS?
+
+6,Data Flow Mapping in ADF
+
+7,Major Components in ADF
+
+8,How to design incremental data ingestion in ADF?
+
+9,Code for parameterization and dynamic execution in ADF
+
+10,Parameterizing Copy Activity with pipeline named 'runtime'
+
+11,Explain the dynamic execution setup
+
+12,What is data lineage in pipelines?
+
+13,What is a surrogate key and how to handle it in SQL?
+
+14,How to handle data deduplication in data pipeline?
+
+15,What is semi-structured data and how to handle it?
+
+16,What is schema drift?
+
+17,File is arriving 5 minutes late, load only updated records in ADF
+
+18,Power BI is slow, how to optimize it?
+
+19,What is DAX in Power BI and its use cases?
+
+ 
