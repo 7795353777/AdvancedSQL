@@ -1,0 +1,24 @@
+Kiran deloitte internal project
+Question
+
+How do you design scd type 1 data load in adf
+
+How do you design scd type 1 data load in adf without mapping data flow
+
+How to do dynamic column mapping in copy activity
+
+How to do dynamic mapping of columns
+
+What are all the steps synapse
+
+How to do development to prod deployment in synapse
+
+Delta optimizations in databricks
+
+Other delta optimizations in databricks
+
+What is AQE in spark
+
+Technical transformations in medallion architecture
+
+ 
