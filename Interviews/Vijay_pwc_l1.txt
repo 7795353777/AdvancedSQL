@@ -1,0 +1,16 @@
+S.No,Question
+1,diff rdd and dataset and dataframe
+2,incremantal data loading
+3,how to implement watermark column 
+4,broad cast joins
+5,syntax for create dataframe in spark for csv
+6,syntax create in using rdd
+7,lazy evaluvataion
+8,how does pyspark handle skew data
+9,how many triggers in adf
+10,diff mapping and wrangling data flow
+11,if you have to take data from on premise adf
+12,2 levels of security in adls gen2
+13,significance of direct query in fabric
+14,rbac in fabric reports
+15,diff rank and dense rank
