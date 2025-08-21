@@ -16,3 +16,13 @@ S.No,Question
 15,deciding factor of replicated and round robin
 16,rbse in powerbi
 
+
+ kiran pwc l2
+
+Interview_Questions
+1.what is the spark optimisations in projects
+2.what have you done in pyspark
+3.kpis you have devloped and datawarehouse
+4.is there any kpis for finance you have worked
+5.tell me how to optimse data pipeline overall
+
