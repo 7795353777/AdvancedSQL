@@ -1,0 +1,18 @@
+S.No,Question
+1,Read the delta file into dataframe
+2,you have a dataset representing website user logs stored as a Delta file - Task: Read delta file into DataFrame & identify distinct sessions
+3,for each user id , identify distinct sessions based on sessionID
+4,facts nd dimens
+5,benefits of snowflake schema
+6,if you subdivide wont you think joins will increase??
+7,scd type 2
+8,business attributes are - cust_id, cust_name, cust_city, cust_phno now redesign this to create a scd type 2
+9,show me how to implement now
+10,what is the loading stratergy , for scd with type 2 when new fact tables comes in as a foriengn key in fact table if there is surrogate key
+11,use the surrogate key as forieng and show me loading stratergy
+12,you have data table-id,teamname expected ouptut give matches between all teams
+13,Databricks asset bundles,how does it store the workflows and other objects
+14,distribution stratergy for dimen and fact tables in synapse
+15,deciding factor of replicated and round robin
+16,rbse in powerbi
+
