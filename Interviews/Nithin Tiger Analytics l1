@@ -1,0 +1,17 @@
+QuestionNumber,Question
+1,nithin introduction
+2,explain more on cge and segment builder
+3,where your transformations and data lies
+4,why did you not use databricks directly to powerbi ?
+5,lets tweek this architechture , we make views in unity catalog how to connect ot powerbi
+6,if we remove databricks can we connect to gen2?
+7,azure streaming analytics
+8,python question count frequirency of each word
+9,another question words=["eat","tea",tan,ate,nat,bat] output=[[eat,teamate],[tan,nat],[bat]] each word is different in meaning make a group of same kind of words of anagrams, in a single list
+10,9*9 suduko write a function to validate that box 9*9 2d list or not
+11,in attendance table there are 2 cols employee id , 
+    date to find emmployee ids missed from jan 2025 to till date only working days
+12,shuffle operations how do you optimise in databrics
+13,salting
+14,join stratergies in default databricks
+15,dlt
