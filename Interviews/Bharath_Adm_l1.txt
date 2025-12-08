@@ -1,0 +1,10 @@
+Bharath ADM
+1,Write PySpark code to read CSV file from ADLS
+2,SQL query to find duplicates in a table
+3,Python code to count frequency of characters in a string
+4,ADF Data Flow filter to remove NULL values
+5,Step-wise ADF Data Flow instructions to filter NULL values
+6,PySpark code to merge updates using SCD Type 2
+7,PySpark SCD Type 2 merge using MERGE INTO (Delta Lake)
+8,SQL MERGE INTO query for SCD Type 2
+9,SQL query to calculate running totals using window functions
