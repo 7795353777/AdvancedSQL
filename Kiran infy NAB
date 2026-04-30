@@ -1,0 +1,51 @@
+1. domains worked
+2. banking terminology .. what is a transaction
+3. Event
+4. pii data
+5. how to load pii data?
+6. how to mask data in databricks
+7. md hashing
+8. what is difference data lake and delta lake
+9. data lake, which format file is stored
+10. emp data – select id, name, salary from empp table (replace null salary with 0)
+11. COALESCE – what is this?
+12. name with fn and ln.. concat into one with space
+13. what if 3 columns
+14. alternate option?
+15. write a merge statement to implement SCD Type 2
+16. CDC
+17. CDF
+18. we need to read the data from 1 file with autoloader
+19. how to write in table
+20. trigger should be like whenever new data is loaded and store last loaded data
+21. data warehousing in banking
+22. star schema
+23. entity relationship
+24. types (ER relationships)
+25. pipeline failing due to data spill.. how to handle
+26. optimization in databricks
+27. hard delete and soft delete
+28. DLT (Delta Live Tables)
+29. handle data sequence
+30. CI/CD
+31. how to push local code in repository
+32. resolve conflicts how?
+33. broadcast join
+34. sort merge join
+35. databricks: one table created, no change data feed enabled – write alter statement
+36. simple sql alter table and change column
+37. read file into dataframe and write into dataframe in PySpark
+38. databricks UI
+39. pandas filter rows on condition
+40. difference between list
+41. tuple
+42. caching vs persist
+43. DAG in Spark
+44. when do stages get created
+45. Catalyst optimizer
+46. lazy evaluation
+47. types of clusters
+48. Azure linked service
+49. OLTP/OLAP (oldp)
+50. which is more normalized
+51. notebook in Databricks – how to share with others
