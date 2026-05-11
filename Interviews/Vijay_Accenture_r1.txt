@@ -1,0 +1,13 @@
+S.No,Question
+1,what are the challenges you faced?
+2,In databricks what are the challenges while executing  or deploy the jobs
+3,have you handled full load in databricks?
+4,how to maintain history in full load?
+5,primary vs surrogate key
+6,i have a key combination , from source itself there are duplicates in source , how do handle?
+7,use of composite key
+8,primary vs surrogeate vs composite keys?
+9,cache memory ?
+10,static and dynamic cache?
+11,Unity catalog
+12,load department and employee table from csv, using pyspark code for databricks in medallian Architecture
