@@ -1,0 +1,21 @@
+S.No,Question
+1,Introduce yourself and how could you be a good fit?
+2,How would you approach a problem where you have a table with Name Age Department Salary and need to get the average salary for each department?
+3,What are the other ways to write the query for average salary by department?
+4,If the table is very large which would you use GROUP BY or Window Function and why?
+5,Get the rank of salary of employees.
+6,There are different ranking methods. Which ranking method is appropriate and why?
+7,Why would you choose DENSE_RANK instead of RANK?
+8,What optimizations have you implemented in your work?
+9,How have you implemented automated workflows in ADF?
+10,How do you run Databricks notebooks automatically using ADF?
+11,What is a Databricks Notebook Activity in ADF?
+12,What kind of validations have you implemented to avoid errors while running pipelines?
+13,What types of failures have you encountered in pipelines and how did you handle them?
+14,Why is Parquet faster than other file formats?
+15,Why choose Parquet when other columnar formats are available?
+16,What is column pruning?
+17,Given very large data containing numeric and character columns, how would you optimize the data format to reduce runtime?
+18,Can this datatype optimization be implemented in Databricks? How?
+19,What optimizations can be done in Databricks?
+20,Do you have any questions for us?
