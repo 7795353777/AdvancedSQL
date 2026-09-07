@@ -1,0 +1,28 @@
+Question
+1. "To manage large-scale data deduplication in an Azure Databricks pipeline,
+what are the libraries and techniques you are going to leverage,
+and what are the key considerations for scale? What about scalability?"
+
+2."Explain how you are going to use Python's logging module to implement structured,
+centralized logging in an Azure Databricks pipeline. What constraints are important for a production environment?"
+
+3."How are you going to handle the sensitive data, 
+and how are you going to monitor this one? What about the scalability? 
+How are you going to take care of that?"
+
+4."Want to use this ADF to orchestrate and monitor a data pipeline that integrates
+Azure Databricks and Azure Data Lake, ensuring the reliability and visibility into failures."
+
+5."Write a Python function using PySpark that reads streaming data from Azure Event Hub,
+parses incoming JSON messages, applies a watermark on event_time to handle 10 minutes of late data, 
+aggregates counts by device_id every 5 minutes, and writes data into a Delta table in ADLS Gen2."
+
+6."Write a Python function using PySpark that reads JSON from ADLS Gen2, flattens nested structures,
+removes records with missing 'id', and writes the cleaned data as Parquet to a new ADLS Gen2 location,
+partitioned by date column."
+
+7."Can you use Python to enforce data lineage tracking in an Azure Databricks pipeline?
+What are the tools and approach you are going to use, and why is data lineage important in a cloud data engineering context?"
+
+8."How do you design a robust pipeline in ADF to ingest data from multiple sources, perform the transformations,
+and store the results in Azure Data Lake, ensuring the data quality and error handling?"
