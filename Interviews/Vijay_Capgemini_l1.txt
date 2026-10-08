@@ -1,0 +1,13 @@
+Question
+"What are the major issues you faced in the project?"
+"Ask you to design a data pipeline to load large files, such as 1 TB, from on-premises to Azure, and process it with the data warehouse. How are you going to do this?"
+"What are the storage options in Azure?"
+"Why are you using Azure Data Lake Storage Gen2?"
+"How are you going to implement incremental loads when the source system does not have a timestamp column?"
+"How are you going to optimize the performance of a complex data pipeline if it is processing large volumes of data?"
+"What optimization techniques are you using in your real-time projects? What are the major optimization techniques?"
+"What is broadcast doing in your project?"
+"What is data skew?"
+"What is SparkContext? What is the role of SparkContext in Spark?"
+"How did you resolve OOM issues? How are you going to resolve an OOM issue?"
+"Do you have any questions for me?"
